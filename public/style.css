@@ -1,0 +1,19 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    background-color: rgb(230,230,230);
+}
+
+.tarefas{
+    margin: 10px auto;
+    max-width: 780px;
+    border-radius:20px;
+    text-align: center;
+    background-color: white;
+    padding:20px;
+}
+
